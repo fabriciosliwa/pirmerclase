@@ -1,0 +1,2 @@
+# pirmerclase
+clase 1
